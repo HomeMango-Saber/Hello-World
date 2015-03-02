@@ -1,6 +1,1 @@
-Hello-World
-===========
-
-This is a test
------20141106
-What a fine day!!!
+这是一个测试
